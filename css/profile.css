@@ -1,0 +1,13 @@
+.top-header--transparant {
+  background-color: transparent;
+}
+
+.profile .profile__header {
+  height: 80vh;
+  background-color: red;
+  width: 100%;
+  position: relative;
+  top: -60px;
+  justify-content: center;
+  align-items: flex-end;
+}
